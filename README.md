@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Daniil 👋
 
-<!--
-**danil777lar/danil777lar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unity Developer with 6+ years of experience.
 
-Here are some ideas to get you started:
+## 🚀 What I do
+- Gameplay Programming
+- Graphics & Shaders
+- Tool Development
+- Performance Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Unity • C# • .NET • Rust • C++ • GLSL • Blender
+
+## 📌 Featured Projects
+- Blank Spaces (Steam)
+- Dialogue System
+- Custom DI Framework
+- Procedural Grid Renderer
+
+## 📫 Contact
+LinkedIn • Email
