@@ -21,5 +21,5 @@ Build games, gameplay systems and developer tools with a strong focus on clean a
 
 ## Tech
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,rust,blender,git,github"/>
+  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,blender,arch,nvim"/>
 </p>
