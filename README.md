@@ -16,8 +16,8 @@ Build games, gameplay systems and developer tools with a strong focus on clean a
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/...
-- Email: ...
+- LinkedIn: www.linkedin.com/in/daniel-larzhevskii-093a471a1
+- Email: danil777lar@gmail.com
 
 ## Tech
 <p>
