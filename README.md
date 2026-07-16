@@ -1,25 +1,15 @@
-# Hi, I'm Daniil 👋
-
-Unity Developer with 6+ years of experience.
-
-## 🚀 What I do
-- Gameplay Programming
-- Graphics & Shaders
-- Tool Development
-- Performance Optimization
-
-## 🛠 Tech Stack
-Unity • C# • .NET • Rust • C++ • GLSL • Blender
-
-## 📌 Featured Projects
-- Blank Spaces (Steam)
-- Dialogue System
-- Custom DI Framework
-- Procedural Grid Renderer
-
-## 📫 Contact
-LinkedIn • Email
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,rust,blender,git,github"/>
+  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,rust,blender,git,github"/>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME"/>
+
+<img src="https://streak-stats.demolab.com?user=USERNAME"/>
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME"/>
