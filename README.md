@@ -19,3 +19,7 @@ Unity • C# • .NET • Rust • C++ • GLSL • Blender
 
 ## 📫 Contact
 LinkedIn • Email
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,rust,blender,git,github"/>
+</p>
